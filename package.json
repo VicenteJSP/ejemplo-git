@@ -1,0 +1,24 @@
+{
+  "name": "ejemplo",
+  "version": "1.0.0",
+  "description": "Ejemplo para probar comandos de git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VicenteJSP/ejemplo-git.git"
+  },
+  "keywords": [
+    "ejemplo",
+    "GIT",
+    "comandos"
+  ],
+  "author": "Vicente Jesus Santiago Palacios",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/VicenteJSP/ejemplo-git/issues"
+  },
+  "homepage": "https://github.com/VicenteJSP/ejemplo-git#readme"
+}
